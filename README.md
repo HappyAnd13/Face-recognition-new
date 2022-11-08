@@ -1,2 +1,2 @@
-# Face-recognition-new
-face recognition python HappyAnd_13
+# Face-recognition-new 
+Use Python 3 and CV2 
